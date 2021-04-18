@@ -1,3 +1,4 @@
 # Expense-Tracker-App
-15-04-2021
-Added more functionalities
+# Go TO Master Branch to view project
+
+
