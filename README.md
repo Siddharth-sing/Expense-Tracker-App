@@ -1,5 +1,5 @@
 # Expense-Tracker-App
-# Go TO Master Branch to view project
+# Go To Master Branch to view project
 
 This is an Expense Tracker application that helps me keep an eye on how much I am spending.
 
