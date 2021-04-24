@@ -15,6 +15,6 @@ This is an Expense Tracker application that helps me keep an eye on how much I a
 
   ![](Images/Expense%20Tracker.png)
 
- *Now users have two options either add a new expenses or view all expenses.
+ *Now users have two options either add new expenses or view all expenses.
 
   ![](Images/New%20Expense.png)                  ![](Images/All%20Expenses.png)  
